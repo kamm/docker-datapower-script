@@ -13,4 +13,4 @@ docker run \
           --name datapower \
           -it \
           --rm \
-          kmetrak/datapower $@
+          kmetrak/datapower:v1 $@
